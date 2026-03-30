@@ -24,7 +24,7 @@
 
 
 
-**Table3: Results of LoRA compatibility with Llama-3.1-8B-Instruct on the TOFU Benchmark(Split99) **
+**Table3: Results of LoRA compatibility with Llama-3.1-8B-Instruct on the TOFU Benchmark(Split99)**
 
 | UL Method  | Forget Quality | Forget Truth Ratio | Model Utility | PrivLeak    |
 | ---------- | -------------- | ------------------ | ------------- | ----------- |
